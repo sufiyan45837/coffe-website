@@ -7,7 +7,7 @@ import Group from '../component/Group 1.png';
     <div>
         
         <div
-  className="flex flex-col sm:flex-row items-start sm:items-center space-y-4 sm:space-y-0 sm:space-x-8 ml-4 sm:ml-9 text-gray-300 lg:gap-[100px]  lg:pt-10 sm:ml-10"
+  className="flex flex-col sm:flex-row items-start sm:items-center space-y-4 sm:space-y-0 sm:space-x-8 ml-4 sm:ml-9 text-gray-300 lg:gap-[100px]  lg:pt-10"
   id="Contact"
 >
   {/* Logo */}
