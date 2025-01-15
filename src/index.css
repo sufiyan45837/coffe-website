@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: rgba(25, 25, 25, 1);
+    margin-left: 9%;
+    margin-right: 9%;
+    
+}
+html {
+    scroll-behavior: smooth;
+
+  }
